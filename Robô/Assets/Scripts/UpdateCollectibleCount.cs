@@ -1,5 +1,4 @@
 using UnityEngine;
-using TMPro;
 using System; // Required for Type handling
 
 public class UpdateCollectibleCount : MonoBehaviour
